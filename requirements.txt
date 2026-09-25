@@ -1,0 +1,5 @@
+# Convenience file: installs all three modules' requirements in one go.
+# Each module also has its own requirements.txt.
+-r data_pipeline/requirements.txt
+-r analytics/requirements.txt
+-r support_assistant/requirements.txt
