@@ -1,0 +1,9 @@
+# Module 2 - analytics (versions pinned so results match the committed notebooks)
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.9
+seaborn==0.13.2
+scikit-learn==1.8.0
+imbalanced-learn==0.14.2
+joblib==1.5.3
+jupyter
