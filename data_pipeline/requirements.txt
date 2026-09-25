@@ -1,0 +1,7 @@
+# Module 1 - data pipeline
+requests==2.33.1
+beautifulsoup4==4.14.3
+pandas==3.0.2
+numpy==2.4.4
+tabulate==0.10.0
+jupyter
