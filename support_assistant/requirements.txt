@@ -1,0 +1,8 @@
+# Module 3 - support assistant (also used by the Dockerfile)
+fastapi==0.141.1
+uvicorn==0.46.0
+pydantic==2.13.3
+langgraph==1.2.12
+chromadb==1.5.9
+sentence-transformers>=3.0,<6
+requests==2.33.1
